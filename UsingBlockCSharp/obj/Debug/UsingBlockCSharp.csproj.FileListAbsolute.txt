@@ -1,0 +1,8 @@
+C:\Users\sande\source\repos\UsingBlockCSharp\UsingBlockCSharp\bin\Debug\UsingBlockCSharp.exe.config
+C:\Users\sande\source\repos\UsingBlockCSharp\UsingBlockCSharp\bin\Debug\UsingBlockCSharp.exe
+C:\Users\sande\source\repos\UsingBlockCSharp\UsingBlockCSharp\bin\Debug\UsingBlockCSharp.pdb
+C:\Users\sande\source\repos\UsingBlockCSharp\UsingBlockCSharp\obj\Debug\UsingBlockCSharp.csproj.AssemblyReference.cache
+C:\Users\sande\source\repos\UsingBlockCSharp\UsingBlockCSharp\obj\Debug\UsingBlockCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sande\source\repos\UsingBlockCSharp\UsingBlockCSharp\obj\Debug\UsingBlockCSharp.csproj.CoreCompileInputs.cache
+C:\Users\sande\source\repos\UsingBlockCSharp\UsingBlockCSharp\obj\Debug\UsingBlockCSharp.exe
+C:\Users\sande\source\repos\UsingBlockCSharp\UsingBlockCSharp\obj\Debug\UsingBlockCSharp.pdb
